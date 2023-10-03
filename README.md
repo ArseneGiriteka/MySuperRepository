@@ -1,2 +1,1 @@
-# MySuperRepository
-for school
+my first readme file
